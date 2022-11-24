@@ -1,0 +1,267 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Node",
+            "request": "launch",
+            "mainClass": "recursion.Node",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch polandNotation",
+            "request": "launch",
+            "mainClass": "stack.polandNotation",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Node",
+            "request": "launch",
+            "mainClass": "algorithm.Node",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch circleMain",
+            "request": "launch",
+            "mainClass": "singleLinkedList.circleMain",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataStreamTest",
+            "request": "launch",
+            "mainClass": "javaio.DataStreamTest",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch proxyPattern",
+            "request": "launch",
+            "mainClass": "designmode.proxyPattern",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch HandlerTest",
+            "request": "launch",
+            "mainClass": "myhandler.HandlerTest",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch queen",
+            "request": "launch",
+            "mainClass": "recursion.queen",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch fig1",
+            "request": "launch",
+            "mainClass": "struct.fig1",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Floyd",
+            "request": "launch",
+            "mainClass": "graph.Floyd",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch chapter6",
+            "request": "launch",
+            "mainClass": "javaConcurrent.chapter6",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch KruskalAlgoriyhm",
+            "request": "launch",
+            "mainClass": "graph.KruskalAlgoriyhm",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prim",
+            "request": "launch",
+            "mainClass": "graph.Prim",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch chapter5",
+            "request": "launch",
+            "mainClass": "javaConcurrent.chapter5",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch chapter4",
+            "request": "launch",
+            "mainClass": "javaConcurrent.chapter4",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassLoaderFind",
+            "request": "launch",
+            "mainClass": "javavirtualmachine.ClassLoaderFind",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch chapter2",
+            "request": "launch",
+            "mainClass": "javaConcurrent.chapter2",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch chapter1",
+            "request": "launch",
+            "mainClass": "javaConcurrent.chapter1",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphCreate",
+            "request": "launch",
+            "mainClass": "graph.GraphCreate",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch maze",
+            "request": "launch",
+            "mainClass": "recursion.maze",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Avl",
+            "request": "launch",
+            "mainClass": "tree.Avl",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "tree.BinarySearch",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch observerPattern",
+            "request": "launch",
+            "mainClass": "designmode.observerPattern",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch flyWeightPattern",
+            "request": "launch",
+            "mainClass": "designmode.flyWeightPattern",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch decoratorPattern",
+            "request": "launch",
+            "mainClass": "designmode.decoratorPattern",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch HuffmanCoding",
+            "request": "launch",
+            "mainClass": "tree.HuffmanCoding",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Huffman",
+            "request": "launch",
+            "mainClass": "tree.Huffman",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "tree.Tree",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch chainofResponsibilityPattern",
+            "request": "launch",
+            "mainClass": "designmode.chainofResponsibilityPattern",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch stratepyPattern",
+            "request": "launch",
+            "mainClass": "designmode.stratepyPattern",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "algorithm.Search",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort",
+            "request": "launch",
+            "mainClass": "algorithm.Sort",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "algorithm.test",
+            "projectName": "vscodeCode_815b0fef"
+        },
+        {
+            "name": "g++.exe - 生成和调试活动文件",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+        }
+    ]
+}

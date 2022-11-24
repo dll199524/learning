@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "stdlib.h": "c",
+        "list.h": "c",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "tuple": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "stdio.h": "c",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "optional": "cpp",
+        "memory": "cpp",
+        "string_view": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
